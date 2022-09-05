@@ -19,4 +19,5 @@
 <!-- <hr/> -->
 
 
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
