@@ -14,7 +14,9 @@
 
 
 <h1>Technology Stacks</h1>
+<h3>Programmin and Styling Languages</h3>
 
+![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)
 ![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
