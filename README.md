@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://komarev.com/ghpvc/?username=your-github-username)
+![](https://komarev.com/ghpvc/?username=udokaokoye)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=udokaokoye&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/udokaokoye/github-readme-stats)
 
