@@ -22,7 +22,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=udokaokoye&layout=compact&theme=tokyonight)](https://git.io/streak-stats)
 
 
-<h1>Technology Stacks</h1>
+<h1>Technologies</h1>
 <h3>Programmin and Styling Languages</h3>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
