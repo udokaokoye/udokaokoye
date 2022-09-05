@@ -4,7 +4,9 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=udokaokoye&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/udokaokoye/github-readme-stats)
 
+<p align="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=udokaokoye&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<p/>
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=udokaokoye&layout=compact&theme=tokyonight)](https://github.com/udokaokoye/github-readme-stats)
 
